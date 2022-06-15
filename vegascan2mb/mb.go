@@ -36,7 +36,7 @@ func MbServer() {
 			strCsv = res
 		}
 
-		valBytes, err := CsvStringToBytes(res, *LE)
+		valBytes, err := CsvStringFloatToBytes(res, *LE)
 		if err == nil {
 			for i := 0; i < len(valBytes)/2; i++ {
 				if *LE {

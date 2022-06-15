@@ -1,0 +1,26 @@
+[
+    {
+        "NodeId": "ns=3;s=FRRO01_TTL.Value",
+        "Address": 3
+    },
+    {
+        "NodeId": "ns=3;s=FTCA01_TTL.Value",
+        "Address": 13
+    },
+    {
+        "NodeId": "ns=3;s=FRDM01_TTL.Value",
+        "Address": 6
+    },
+    {
+        "NodeId": "ns=3;s=FTHCL01_TTL.Value",
+        "Address": 9
+    },
+    {
+        "NodeId": "ns=3;s=FTNAOH01_TTL.Value",
+        "Address": 11
+    },
+    {
+        "NodeId": "ns=3;s=FRKTI102_TTL.Value",
+        "Address": 1
+    }
+]
